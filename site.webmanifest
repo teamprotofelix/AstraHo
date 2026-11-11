@@ -1,0 +1,17 @@
+{
+  "name": "ASTRA — World Tree",
+  "short_name": "ASTRA",
+  "description": "여섯 개의 우주를 연결하는 아스트라 세계수",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050915",
+  "theme_color": "#050915",
+  "icons": [
+    {
+      "src": "/assets/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
